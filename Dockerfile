@@ -1,6 +1,6 @@
 FROM node:16.15.1
 
-MAINTAINER Opstree Solutions
+MAINTAINER Shubham Lad
 
 COPY . /app
 
